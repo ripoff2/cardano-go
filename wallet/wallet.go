@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/echovl/cardano-go"
-	"github.com/echovl/cardano-go/crypto"
 	gonanoid "github.com/matoous/go-nanoid/v2"
+	"github.com/ripoff2/cardano-go"
+	"github.com/ripoff2/cardano-go/crypto"
 	"github.com/tyler-smith/go-bip39"
 )
 

@@ -6,12 +6,12 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
+	"github.com/ripoff2/cardano-go"
 	"io/ioutil"
 	"net/http"
 	"strconv"
 
 	"github.com/blockfrost/blockfrost-go"
-	"github.com/echovl/cardano-go"
 )
 
 // BlockfrostNode implements Node using the blockfrost API.

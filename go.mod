@@ -8,6 +8,7 @@ require (
 	github.com/dgraph-io/badger/v3 v3.2103.2
 	github.com/echovl/ed25519 v0.2.0
 	github.com/matoous/go-nanoid/v2 v2.0.0
+	github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.12.0
 	github.com/tyler-smith/go-bip39 v1.1.0
@@ -37,7 +38,6 @@ require (
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707 // indirect
 	github.com/spf13/afero v1.8.2 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
@@ -52,5 +52,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
-
-replace github.com/echovl/cardano-go => github.com/ripoff2/cardano-go 6dfbb412533f8f6f615fa1bbf4080e532be91acc

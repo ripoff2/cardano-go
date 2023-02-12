@@ -1,9 +1,9 @@
 package cmd
 
 import (
-	"github.com/echovl/cardano-go"
-	"github.com/echovl/cardano-go/blockfrost"
-	"github.com/echovl/cardano-go/wallet"
+	"github.com/ripoff2/cardano-go"
+	"github.com/ripoff2/cardano-go/blockfrost"
+	"github.com/ripoff2/cardano-go/wallet"
 	"github.com/spf13/cobra"
 )
 

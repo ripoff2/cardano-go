@@ -208,6 +208,8 @@ github.com/pkg/sftp v1.13.1/go.mod h1:3HaPG6Dq1ILlpPZRO0HVMrsydcdLt6HRDccSgb87qR
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
+github.com/ripoff2/cardano-go v0.1.15-0.20230212150535-6dfbb412533f h1:qbfmOXkmGaSvTlSAGqHLE+Wed30AOnOKFRqzTCnj3TA=
+github.com/ripoff2/cardano-go v0.1.15-0.20230212150535-6dfbb412533f/go.mod h1:gd/7engrEkmUgwtabKQLWUzYYWVF2u2QRC8ptn4ydZQ=
 github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707 h1:3cHjqv77YAaEK2guPgV9mhrs50XiJdlP2Bm5xrglgO8=
 github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707/go.mod h1:+EkWo4+UVakgD+mZ9fIXKC8ykTymdvc8QJdL2qCQMuw=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=

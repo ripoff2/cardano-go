@@ -2,7 +2,7 @@ package tangocrypto
 
 import (
 	"context"
-	"github.com/echovl/cardano-go"
+	"github.com/ripoff2/cardano-go"
 	"github.com/ripoff2/tangocrypto-go"
 )
 

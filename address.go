@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/echovl/cardano-go/internal/bech32"
-	"github.com/echovl/cardano-go/internal/cbor"
+	"github.com/ripoff2/cardano-go/internal/bech32"
+	"github.com/ripoff2/cardano-go/internal/cbor"
 	"golang.org/x/crypto/blake2b"
 )
 
