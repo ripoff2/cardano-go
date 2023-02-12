@@ -179,7 +179,7 @@ func (b *BlockfrostNode) ProtocolParams() (*cardano.ProtocolParams, error) {
 		return nil, err
 	}
 
-	pparams := &cardano.ProtocolParams{
+	params := &cardano.ProtocolParams{
 		MinFeeA:            cardano.Coin(eparams.MinFeeA),
 		MinFeeB:            cardano.Coin(eparams.MinFeeB),
 		MaxBlockBodySize:   uint(eparams.MaxBlockSize),
@@ -192,7 +192,7 @@ func (b *BlockfrostNode) ProtocolParams() (*cardano.ProtocolParams, error) {
 		CoinsPerUTXOWord:   cardano.Coin(minUTXO),
 	}
 
-	return pparams, nil
+	return params, nil
 }
 
 func (b *BlockfrostNode) Network() cardano.Network {
