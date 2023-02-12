@@ -4,8 +4,8 @@ import (
 	"crypto/sha512"
 	"encoding/hex"
 
-	"github.com/echovl/cardano-go/internal/bech32"
 	"github.com/echovl/ed25519"
+	"github.com/ripoff2/cardano-go/internal/bech32"
 	"golang.org/x/crypto/blake2b"
 	"golang.org/x/crypto/pbkdf2"
 )
