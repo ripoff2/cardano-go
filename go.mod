@@ -1,4 +1,4 @@
-module github.com/echovl/cardano-go
+module github.com/ripoff2/cardano-go
 
 go 1.18
 
@@ -52,3 +52,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
+
+replace github.com/echovl/cardano-go => github.com/ripoff2/cardano-go 6dfbb412533f8f6f615fa1bbf4080e532be91acc
