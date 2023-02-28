@@ -8,7 +8,7 @@ require (
 	github.com/dgraph-io/badger/v3 v3.2103.2
 	github.com/echovl/ed25519 v0.2.0
 	github.com/matoous/go-nanoid/v2 v2.0.0
-	github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707
+	github.com/ripoff2/tangocrypto-go v0.0.0-20230228201617-247fffee6990
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/viper v1.12.0
 	github.com/tyler-smith/go-bip39 v1.1.0

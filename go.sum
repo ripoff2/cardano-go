@@ -212,6 +212,10 @@ github.com/ripoff2/cardano-go v0.1.15-0.20230212150535-6dfbb412533f h1:qbfmOXkmG
 github.com/ripoff2/cardano-go v0.1.15-0.20230212150535-6dfbb412533f/go.mod h1:gd/7engrEkmUgwtabKQLWUzYYWVF2u2QRC8ptn4ydZQ=
 github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707 h1:3cHjqv77YAaEK2guPgV9mhrs50XiJdlP2Bm5xrglgO8=
 github.com/ripoff2/tangocrypto-go v0.0.0-20230212145230-2d08f0410707/go.mod h1:+EkWo4+UVakgD+mZ9fIXKC8ykTymdvc8QJdL2qCQMuw=
+github.com/ripoff2/tangocrypto-go v0.0.0-20230228201222-9e11de85997e h1:u34RmvYyI59M55Kwol3iuRwyoWwuRw7wKbFzcet8Vrs=
+github.com/ripoff2/tangocrypto-go v0.0.0-20230228201222-9e11de85997e/go.mod h1:+EkWo4+UVakgD+mZ9fIXKC8ykTymdvc8QJdL2qCQMuw=
+github.com/ripoff2/tangocrypto-go v0.0.0-20230228201617-247fffee6990 h1:CBa1WfQmL7Fk2ebOJ+1HrWyJZO3CWTOzHQHLSdSLKS4=
+github.com/ripoff2/tangocrypto-go v0.0.0-20230228201617-247fffee6990/go.mod h1:+EkWo4+UVakgD+mZ9fIXKC8ykTymdvc8QJdL2qCQMuw=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
 github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
